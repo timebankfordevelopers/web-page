@@ -6,5 +6,6 @@ Is 100% Software Dveloper oriented and anyone can improve the application.
 
 Technologies in scope:
 
-- Front - React
+- Front - React.
 - Back - NodeJS/Spring.
+- DB - MongoDB.
